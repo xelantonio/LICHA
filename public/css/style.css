@@ -104,7 +104,7 @@ hr {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #BAD6BF 0%, #F5DBD8 100%);
   content: "";
   transition: width 0.2s;
 }
@@ -125,7 +125,7 @@ hr {
   bottom: -1px !important;
   width: 100% !important;
   height: 2px !important;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%) !important;
+  background: linear-gradient(to right, #BAD6BF 0%, #F5DBD8 100%) !important;
   content: "" !important;
   transition: width 0.2s !important;
 }
@@ -152,7 +152,7 @@ hr {
 .section-title h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background: linear-gradient(to right, #BAD6BF 0%, #F5DBD8 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -166,8 +166,8 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-color: #BAD6BF;
+  background-image: linear-gradient(to right, #BAD6BF 0%, #F5DBD8 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -184,7 +184,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #F5DBD8;
 }
 .btn:active,
 .btn.active {
@@ -208,8 +208,8 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
-  background-color: #e5e5e5;
+  background: url(../img/470.png) center center no-repeat;
+  background-color: #795757;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -220,7 +220,7 @@ a:focus,
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: #F5F5EE ;
   font-size: 82px;
   font-weight: 700;
   text-transform: uppercase;
@@ -232,7 +232,7 @@ a:focus,
   color: #5ca9fb;
 }
 .intro p {
-  color: #fff;
+  color: #F5F5EE;
   font-size: 22px;
   font-weight: 300;
   line-height: 30px;
@@ -246,7 +246,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
-  background: #f6f6f6;
+  background: #F5F5EE;
 }
 #features i.fa {
   font-size: 38px;
@@ -257,7 +257,7 @@ header .intro-text {
   height: 100px;
   padding: 30px 0;
   border-radius: 50%;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to left, #F4E1B3 0%, #F5DBD8 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 /* About Section */
@@ -276,7 +276,7 @@ header .intro-text {
 #about h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background: linear-gradient(to right, #BAD6BF 0%, #F5DBD8 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -291,7 +291,7 @@ header .intro-text {
 #about .about-text li:before {
   content: "\f00c";
   font-family: "FontAwesome";
-  color: #5ca9fb;
+  color: #345140;
   font-size: 11px;
   font-weight: 300;
   padding-right: 8px;
@@ -310,7 +310,7 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #F5F5EE 0%, #F4E1B3 100%);
   color: #fff;
 }
 #services .service-desc {
@@ -334,7 +334,7 @@ header .intro-text {
   width: 120px;
   height: 120px;
   padding: 40px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to left, #BAD6BF 0%, #BAD6BF 100%);
   border-radius: 50%;
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
@@ -342,10 +342,10 @@ header .intro-text {
 #services h3 {
   font-weight: 500;
   padding: 5px 0;
-  color: #fff;
+  color: #345140;
 }
 #services p {
-  color: rgba(255, 255, 255, 0.75);
+  color: #345140;
 }
 #services .service-desc {
   margin-bottom: 40px;
@@ -356,7 +356,10 @@ header .intro-text {
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
-  padding: 0;
+  padding: 1;   
+  background-size:cover ;
+ 
+  
 }
 .portfolio-item .hover-bg {
   overflow: hidden;
@@ -370,8 +373,8 @@ header .intro-text {
   color: #fff;
   background: linear-gradient(
     to right,
-    rgba(99, 114, 255, 0.8) 0%,
-    rgba(92, 169, 251, 0.8) 100%
+    rgba( 186, 214, 191) 0%,
+    rgba( 52, 81, 64) 100%
   );
   padding: 30% 0 0;
   height: 100%;
