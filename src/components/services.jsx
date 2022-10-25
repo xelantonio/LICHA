@@ -3,7 +3,7 @@ export const Services = (props) => {
     <div id='services' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Nuestro contacto</h2>
+          <h2>Licha nuestras redes sociales</h2>
           <p>
             Puedes contactarnos en nuestras redes solciales y contacto de Whatsapp
           </p>

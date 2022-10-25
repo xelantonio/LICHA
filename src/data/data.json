@@ -4,7 +4,7 @@
     "paragraph": "Nature GT es una marca de productos naturales que te invita a encontrar tu propio balance al disfrutar de los deliciosos sabores y beneficios de los alimentos."
   },
   "About": {
-    "paragraph": "Nature  activa tus sentidos al disfrutar sus productos. Busca hacerte sentir una experiencia placentera al consumir un delicioso platillo o postre. La experiencia nace desde la preparacion con amor, hasta el momento de disfrutar cada textura, sabor y aroma al comer",
+    "paragraph": "LICHA es un producto natural con base en avena y con super alimentos como lo son la linaza y chia. Ayudando problemas digestivos, disminuyendo riesgo cardiovascular y recuciendo la inflamacion general en el cuerpo. Con un sabor neutro ideal para utilizar en una amplia variedad de preparaciones.",
     "Why": [
       "Producto totalmente natural",
       "Fuente de fibra natural",
@@ -92,24 +92,24 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/9.png",
+      "name": " Compra al detalle",
+      "job": "Q55.00 c/u con envio gratis"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/5.jpg",
+      "name": "6 a 11 unidades",
+      "job": "Q35.00 c/u con envio gratis"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/8.png",
+      "name": "12 a 49 unidades",
+      "job": "Q30.00 c/u con envio gratis"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/muchos.png",
+      "name": "50 o màs unidades",
+      "job": "Q26.00 con envio gratis"
     }
   ],
   "Contact": {
