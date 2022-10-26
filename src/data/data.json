@@ -94,22 +94,26 @@
     {
       "img": "img/team/9.png",
       "name": " Compra al detalle",
-      "job": "Q55.00 c/u con envio gratis"
+      "job": "Q55.00 c/u con envio gratis",
+      "url": "https://api.whatsapp.com/send/?phone=50249776009&text=%C2%A1Hola%21+Me+interesa+comprar+licha+al+detalle.&type=phone_number&app_absent=0"
     },
     {
       "img": "img/team/5.jpg",
       "name": "6 a 11 unidades",
-      "job": "Q35.00 c/u con envio gratis"
+      "job": "Q35.00 c/u con envio gratis",
+      "url": "https://api.whatsapp.com/send/?phone=50249776009&text=%C2%A1Hola%21+Me+interesa+comprar+licha+de+6+a+11+unidades.&type=phone_number&app_absent=0"
     },
     {
       "img": "img/team/8.png",
       "name": "12 a 49 unidades",
-      "job": "Q30.00 c/u con envio gratis"
+      "job": "Q30.00 c/u con envio gratis",
+      "url": "https://api.whatsapp.com/send/?phone=50249776009&text=%C2%A1Hola%21+Me+interesa+comprar+licha+de+12+a+49+unidades.&type=phone_number&app_absent=0"
     },
     {
       "img": "img/team/muchos.png",
       "name": "50 o màs unidades",
-      "job": "Q26.00 con envio gratis"
+      "job": "Q26.00 con envio gratis",
+      "url": "https://api.whatsapp.com/send/?phone=50249776009&text=%C2%A1Hola%21+Me+interesa+comprar+licha+de+50+a+mas+unidades.&type=phone_number&app_absent=0"
     }
   ],
   "Contact": {
